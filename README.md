@@ -9,13 +9,17 @@ By day I architect **Oracle Cloud Redwood (Sales & Service)** systems at **Deloi
 
 ### 🚀 Featured work
 
-**[🔎 Opportunity Hunter](https://opportunityhunter.xyz)** &nbsp;·&nbsp; *live SaaS*
-An AI agent that continuously hunts for jobs, scores each one against your profile, explains *why* it fits, and even drafts your application. A full product — onboarding, a matching engine, an application tracker, billing and email — running live on its own domain.
-`Next.js` &nbsp;`TypeScript` &nbsp;`LLM` &nbsp;`SQLite`
+**[🧭 Roamly](https://heyroamly.com)** &nbsp;·&nbsp; *AI travel planner*
+Plan a city break or a road trip around your dates, budget, interests and pace. Roamly turns the idea into a day-by-day itinerary, with routes, stops and daily driving times for road trips. Publish a trip, invite friends or let other travellers request to join, then coordinate plans and split shared expenses in one place.
 
-**[🧭 Roamly](https://github.com/panshulbh16/roamly)** &nbsp;·&nbsp; *early access*
-An AI travel planner that turns a rough idea into a structured, day-by-day itinerary — built on Cloudflare's edge with a quota-guarded Claude integration, a versioned D1 schema, and strictly owner-scoped data.
-`Cloudflare Workers` &nbsp;`Claude API` &nbsp;`D1` &nbsp;`Drizzle`
+I built the planning flow, streamed Claude integration, trip collaboration and expense tracking end to end, with server-enforced AI budgets and private, owner-scoped trip data.
+`TypeScript` &nbsp;`Cloudflare Workers` &nbsp;`Claude API` &nbsp;`D1` &nbsp;`Drizzle`
+
+**[📅 Duely](https://heyduely.com)** &nbsp;·&nbsp; *Subscription tracker · web & mobile*
+Keep every subscription in one place, see what it costs each month and year, and get reminded before a renewal or free trial becomes a charge. Add a service manually, forward a receipt or upload a screenshot; Duely turns imports into drafts you review before saving.
+
+I built the React web app, Expo mobile app and Cloudflare backend, including AI receipt extraction, timezone-aware renewal reminders and encrypted private data.
+`React` &nbsp;`Expo / React Native` &nbsp;`Cloudflare Workers` &nbsp;`Hono` &nbsp;`D1` &nbsp;`Claude API`
 
 ---
 
@@ -31,6 +35,6 @@ An AI travel planner that turns a rough idea into a structured, day-by-day itine
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/panshul-bharadwaj) &nbsp;·&nbsp; [Email](mailto:bharadwajpanshul@gmail.com) &nbsp;·&nbsp; [Opportunity Hunter](https://opportunityhunter.xyz)
+[LinkedIn](https://www.linkedin.com/in/panshul-bharadwaj) &nbsp;·&nbsp; [Email](mailto:bharadwajpanshul@gmail.com) &nbsp;·&nbsp; [Portfolio](https://panshulbh16.github.io/)
 
 <sub>MS Ramaiah University of Applied Sciences · Bengaluru, India</sub>
